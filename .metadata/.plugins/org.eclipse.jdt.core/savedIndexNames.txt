@@ -1,3 +1,2 @@
 INDEX VERSION 1.131+E:\Desenvolvimento\JavaNelioAlves\Projetos\javafx-eclipse\.metadata\.plugins\org.eclipse.jdt.core
-449552968.index
 1865797976.index

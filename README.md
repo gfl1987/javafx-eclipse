@@ -4,6 +4,15 @@
 - JavaFX
 - Eclipse
 - SceneBuilder
+- Interface Initialize
+- ComboBox
+- Visão geral dos principais containers de layout no SceneBuilder
+ AnchorPane
+ GridPane
+ SplitPane
+ VBox & HBox
+ BorderPane
+ ScrollPane
 
 ## Configuração do build para rodar a aplicação no Eclipse:
 Botão direito no projeto -> Run As -> Run Configurations -> Arguments -> VM Arguments
